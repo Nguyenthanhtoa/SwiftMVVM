@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ID</key>
+		<string>1</string>
+		<key>ProductName</key>
+		<string>Beaf steak 1</string>
+		<key>ProductPrice</key>
+		<string>80000</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>2</string>
+		<key>ProductName</key>
+		<string>Beaf steak 2</string>
+		<key>ProductPrice</key>
+		<string>80000</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>3</string>
+		<key>ProductName</key>
+		<string>Beaf steak 3</string>
+		<key>ProductPrice</key>
+		<string>80000</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>4</string>
+		<key>ProductName</key>
+		<string>Beaf steak 4</string>
+		<key>ProductPrice</key>
+		<string>80000</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>5</string>
+		<key>ProductName</key>
+		<string>Beaf steak 5</string>
+		<key>ProductPrice</key>
+		<string>80000</string>
+	</dict>
+</array>
+</plist>
